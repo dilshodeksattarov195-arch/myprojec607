@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessioncync",
+        "uuid": 2677477,
+        "checksum": "s8d0ad"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
